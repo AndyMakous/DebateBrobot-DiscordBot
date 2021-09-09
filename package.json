@@ -1,0 +1,19 @@
+{
+  "name": "debatebrobot-discordbot",
+  "version": "1.0.0",
+  "description": "Discord bot that helps moderate debates.",
+  "main": "DebateBrobot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyMakous/DebateBrobot-DiscordBot.git"
+  },
+  "author": "AndyMakous",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndyMakous/DebateBrobot-DiscordBot/issues"
+  },
+  "homepage": "https://github.com/AndyMakous/DebateBrobot-DiscordBot#readme"
+}
